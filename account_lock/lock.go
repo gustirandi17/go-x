@@ -1,6 +1,6 @@
 package accountlock
 
-//konflik ke branch utama
+//konflik ke branch dibimbing
 import (
 	"context"
 	"sync"
