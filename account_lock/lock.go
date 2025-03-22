@@ -1,6 +1,6 @@
 package accountlock
 
-//testing konflik ke branch utama
+//konflik diselesaikan
 
 import (
 	"context"
